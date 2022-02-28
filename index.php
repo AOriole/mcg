@@ -188,7 +188,7 @@
         <h4 class="pro sub_hd">Project aligned to industry EdTech</h4>
         <a href="#hdr"><i class="social-icon fa-solid fa-house-chimney"></i></a>  <!-- social-icon is customm css-->
         <a href="https://mcg1.azurewebsites.net"><i class="social-icon fa-solid fa-cloud-arrow-up"></i></a>
-        <i class="social-icon fa-brands fa-github"></i>
+        <a href="https://github.com/AOriole/mcg"> <i class="social-icon fa-brands fa-github"></i></a>
         <p class="rights">© Copyright Touseef Khan | MCG Project for FRT | Internship 2022</p>
     </footer>
 </body>
