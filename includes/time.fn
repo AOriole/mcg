@@ -1,0 +1,13 @@
+<?php
+
+function gtdate($off, $hrs, $mn, $zn)
+{
+$offset=$off*(($hrs*60+$mn)*60);
+// ORIG   $atl = gmdate('D d M Y H:i:s ',date('U') + $offset)."$zn";
+   $now = gmdate('l, F j, Y, g:i a',date('U') + $offset)."$zn";
+   return $now;
+} //End--------------------------------------
+
+$now = gtdate(-1, 4, 0, "");
+
+?>

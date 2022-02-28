@@ -1,0 +1,65 @@
+.error {color: #FF0000;}
+
+body{
+    font-family: "Montserrat";
+    text-align: center;
+}
+
+
+/* Sections */
+.color_sec{text-align: left;
+    background-color: #0b2c74;/*#2963ff;*/
+    padding-bottom: 1rem;
+}
+
+.white_sec{
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+    text-align: left;}
+
+/* Navigation */
+.navbar{padding-left: 1rem;}
+
+/* Headings */
+.header{background-color: #133c94;/*rgb(13, 84, 238);*/
+    padding: 0.75rem;}
+
+.title{ 
+    color: #fff;
+    font-weight: 500;
+    font-size: 3rem;
+    line-height: 1;
+    text-align: left;}
+
+.address{
+    color: #fff;
+    text-align: left;}
+
+/* button */
+.btnz{margin: 1% 14% 0;}
+
+.bound{border: 1px solid rgb(189, 186, 186);
+padding: 1.5625rem;}
+
+/* .ip_width{ width: ;} */
+
+/* images */
+.flt{background-color: #fff;
+    float: right;}
+.resize{width: 100%;}
+
+/* Footer */
+footer{background-color: #0b2c74;
+padding-bottom: 0.5rem;}
+
+.pro{
+    color: #fff;
+    padding-top: 2.5rem;}
+
+.social-icon{
+color:#fff;
+padding-top: 2rem;
+margin: 1.25rem 0.625rem;}
+
+.rights{color: #fff;
+    margin-top:2rem;}
