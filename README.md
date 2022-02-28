@@ -42,5 +42,11 @@ To run the project locally on your system
 3. Test & run the project.
 4. Done 
 
+## Screen Shots
+![shot2](https://user-images.githubusercontent.com/25526638/156040389-de818ea4-0589-441a-84bb-b13c0d463779.png)
 
+![shot1](https://user-images.githubusercontent.com/25526638/156040462-56ffdbdf-598b-4624-bac9-540ebcec7409.png)
+
+## Demo Video
+https://user-images.githubusercontent.com/25526638/156040568-00a0faa3-7dc5-4b2c-9f51-d807b48039d2.mp4
 
